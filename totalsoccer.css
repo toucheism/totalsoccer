@@ -1,0 +1,9 @@
+#sidebar-wrapper{
+	clear: left;
+	padding-top: 10px;
+	border: 1px solid red;
+	margin-top: 40px;
+	width: 300px;
+	float: right;
+	height: 100%;
+}
